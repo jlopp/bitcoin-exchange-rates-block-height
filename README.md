@@ -31,3 +31,6 @@ There are several sources of historical data that are ingested by the script.
 ```
 	php generateBlockHeightExchangeRates.php > block_height_exchange_rates.csv &
 ```
+
+# Pregenerated Data
+If you don't want to run this generation script yourself, you can find the [most recently generated data set here](https://raw.githubusercontent.com/jlopp/bitcoin-exchange-rates-block-height/master/data/exchange_rates_by_block_height.csv).
