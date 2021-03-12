@@ -9,7 +9,7 @@ There are several sources of historical data that are ingested by the script.
 
 1. The Bitcoin exchange rate is presumed to be 0 from January 3 2009 to October 5 2009.
 2. For October 5 2009 through April 24 2010, New Liberty Standard rates via http://newlibertystandard.wikifoundry.com/page/2009+Exchange+Rate
-3. For April 25 2010 - July 31 2010, bitcoinmarket_history.csv courtesy of casebitcoin.com
+3. For April 25 2010 - July 31 2010, bitcoinmarket_history.csv courtesy of [casebitcoin.com](https://casebitcoin.com)
 4. For August 1 2010 - April 30 2013, MTGOX history via bitcoincharts.com
 5. For May 1 2013 - present, Bitstamp history via bitcoincharts.com
 
